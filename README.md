@@ -40,7 +40,7 @@ Finally, 1047 terminated campaigns under the theater/plays category were analyze
 ![](https://github.com/Ryoichi2022/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
 
 ### iv. Limitation of Dataset
-* Geographical Limitation - One of the limitations of the dataset is that the data mainly consists of campaigns in the United States and Great Britain. More specifically in the case of the theater/plays category, 985 of 1066 campaigns were from both countries. Therefore, the results will not necessarily apply in other areas.
+* Geographical Limitation - One of the limitations of the dataset is that the data mainly consists of campaigns in the United States and Great Britain. More specifically in the case of the theater/plays category, 985 of 1066 campaigns were from either the United States or Great Britain. Therefore, the results will not necessarily apply in other areas.
 
 * Variety in Campaign Goal - As mentioned in the Goal as Success Factor of Campaign section, most of the campaigns included in the dataset were campaigns with its goal below $15,000. If more data is collected on campaigns with higher goal amount, the conclusion will be reached differently.
 
