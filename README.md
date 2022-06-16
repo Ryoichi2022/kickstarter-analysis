@@ -11,7 +11,7 @@ Expectation throughout the project is to determine whether there are specific fa
 The data contained 4114 campaigns launched between May 2009 and March 2017. The detail of each campaign included information such as name, blurb, goal and pledged amount, outcomes, country, launch date, deadline, parent category, and subcategory.
 
 ### ii. Description of Analysis Performed
-As the analysis is expected to contribute to Louise’s successful campaign, and she tries to set the campaign to mirror other successful campaigns in the same category, the focus of the project was on crowdfunding campaign for plays, which was currently a subcategory under theater. The analysis consisted of the following steps: First, the data was summarized by parent category and subcategory, and then, outcomes were reviewed by launch date. In addition, outcomes were analyzed based on goal amount.
+As the analysis is expected to contribute to Louise’s successful campaign, and she tries to set the campaign to mirror other successful campaigns in the same category, the focus of the project was on crowdfunding campaign for plays, which is a subcategory under theater. The analysis consisted of the following steps: First, the data was summarized by parent category and subcategory, and then, outcomes were reviewed by launch date. In addition, outcomes were analyzed based on goal amount.
 
 ### iii. Challenges
 The data volume was a challenge in the analysis, and there are many potential factors to be considered. In the analysis, launch date and goal amount were reviewed. However, country, as well as average donation that is calculated by dividing pledged amount by backers count, could be reviewed for further insights.
