@@ -35,7 +35,7 @@ To review campaigns under the theater category more closely, the data was summar
 * Lower Successful Rate in December - To the contrary, December appears unfavorable to launch campaigns. According to the data, the number of campaigns launched in December was lower than any other months. In addition, the campaign’s success rate was the lowest in December (49%) of all the months in the year.
 
 ### iii. Goal as Success Factor of Campaign
-Finally, 1047 terminated campaigns under the theater/plays category were analyzed by goal amount of campaigns. As shown in the Outcomes Base on Goal graph, success rate is higher than failed rate in campaigns with goal less than $15,000. It is also noted that 961 or 92% of the terminated campaigns under the theater/plays category were with campaign goal lower than $15,000. Considering Louise’s estimate budget ($10,000) for the play, the crowdfunding campaign goal is likely to be less that $15,000, and the goal amount could be one of the factors that impact the result of the campaign.
+Finally, 1047 terminated campaigns under the theater/plays category were analyzed by goal amount of campaigns. As shown in the Outcomes Base on Goal graph, success rate is higher than failed rate in campaigns with goal less than $15,000. It is also noted that 961 or 92% of the terminated campaigns under the theater/plays category were with campaign goal lower than $15,000. Considering Louise’s estimate budget ($10,000) for the play, the crowdfunding campaign goal is likely to be less than $15,000, and the goal amount could be one of the factors that impact the result of the campaign.
  
 ![](https://github.com/Ryoichi2022/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
 
