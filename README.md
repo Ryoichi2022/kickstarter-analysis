@@ -26,7 +26,7 @@ As is shown in the graph Parent Category Outcomes, the theater category is the m
 ![](https://github.com/Ryoichi2022/kickstarter-analysis/blob/main/Subcategory%20Outcomes%20-%20Theater.png)
 
 ### ii. Two Conclusions from Launch Date Analysis
-To review the campaigns under the theater category more closely, the data was summarized by Launch Date in the graph Theater Outcomes Based on Launch Date.
+To review campaigns under the theater category more closely, the data was summarized by Launch Date in the graph Theater Outcomes Based on Launch Date.
  
 ![](https://github.com/Ryoichi2022/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
  
