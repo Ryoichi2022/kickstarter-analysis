@@ -45,4 +45,4 @@ Finally, 1047 terminated campaigns under the theater/plays category were analyze
 * Variety in Campaign Goal - As mentioned in the Goal as Success Factor of Campaign section, most of the campaigns included in the dataset were campaigns with its goal below $15,000. If more data is collected on campaigns with higher goal amount, the conclusion will be reached differently.
 
 ### v. Other Possible Tables
-As the data contained campaigns in the United States and Great Britain, a possible table will be created only with the campaign data in both countries. Also, blurb was outside of consideration in the analysis, but if there is a common word that could impact the result of the campaign, such analysis will be helpful in organizing a campaign.
+As the data contained campaigns in the United States and Great Britain, a possible table will be created only with the campaign data in both countries. Also, blurb was outside of consideration in the analysis, but if there is a common word that could influence the result of the campaign, such analysis will be helpful in organizing a campaign.
