@@ -19,11 +19,14 @@ The data volume was a challenge in the analysis, and there are many potential fa
 
 ## 3. Results
 ### i. Theater Outcomes by Launch Date
-More Successful Campaigns in Theater/Play Category
-As is shown in the graph Parent Category Outcomes, the theater category is the most popular in all categories in the data. Under the category, there were 1393 campaigns, out of which 1066 campaigns were for plays based on the graph Subcategory Outcomes – Theater. Apparently in the graph, there were successful campaigns (694 campaigns) more than failed campaigns.  
+#### More Successful Campaigns in Theater/Play Category
+As is shown in the graph Parent Category Outcomes, the theater category is the most popular in all categories in the data. Under the category, there were 1393 campaigns, out of which 1066 campaigns were for plays based on the graph Subcategory Outcomes – Theater. Apparently in the graph, there were successful campaigns (694 campaigns) more than failed campaigns. 
+![](https://github.com/Ryoichi2022/kickstarter-analysis/blob/main/Parent%20Category%20Outcomes.png)
+![](https://github.com/Ryoichi2022/kickstarter-analysis/blob/main/Subcategory%20Outcomes%20-%20Theater.png)
 
 ### ii. Two Conclusions from Launch Date Analysis
 To review the campaigns under the theater category more closely, the data was summarized by Launch Date in the graph Theater Outcomes Based on Launch Date.
+![](https://github.com/Ryoichi2022/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 
 * Higher Successful Rate in May and June - Based on the graph, it appears obvious that campaigns were more likely to be successful when they were launched in May or June. 166 campaigns were started in May, and 111 or 67% of these campaigns were concluded successfully. In the same way, out of 153 campaigns that were launched in June, 100 campaigns, or 65%, were successful. Also, both months are the most popular month to launch campaigns.
 
@@ -31,6 +34,7 @@ To review the campaigns under the theater category more closely, the data was su
 
 ### iii. Goal as Success Factor of Campaign
 Finally, 1047 terminated campaigns under the theater/plays category were analyzed by goal amount of campaigns. As shown in the Outcomes Base on Goal graph, success rate is higher than failed rate in campaigns with goal less than $15,000. It is also noted that 961 or 92% of the terminated campaigns under the theater/plays category were with campaign goal lower than $15,000. Considering Louise’s estimate budget ($10,000) for the play, the crowdfunding campaign goal is likely to be less that $15,000, and the goal amount could be one of the factors that impact the result of the campaign.
+![](https://github.com/Ryoichi2022/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
 
 ### iv. Limitation of Dataset
 * Geographical Limitation - One of the limitations of the dataset is that the data mainly consists of campaigns in the United States and Great Britain. More specifically in the case of the theater/plays category, 985 of 1066 campaigns were from both countries. Therefore, the results will not necessarily apply in other areas.
